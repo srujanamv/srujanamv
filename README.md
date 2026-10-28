@@ -1,16 +1,20 @@
-## Hi there 👋
+#Hi there 👋, I'm Srujana!
 
-<!--
-**srujanamv/srujanamv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Java and Data Structures & Algorithms.
+- 💡 I'm interested in software development and problem-solving.
+- ☁️ I'm exploring Cloud Computing and Git/GitHub.
+- 🎯 My goal is to become a skilled software developer.
+
+🛠️ Skills
+
+- Languages: Java
+- Tools: Git, GitHub, VS Code
+- Currently Learning: DSA, Cloud Computing
+
+📫 Connect with Me
+
+- GitHub: "My GitHub Profile" (https://github.com/srujanamv)
